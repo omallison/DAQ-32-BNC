@@ -12,3 +12,7 @@ Made in KiCad 9.0.7
 ## Panel Diagram
 
 <img width="3694" height="1194" alt="image" src="https://github.com/user-attachments/assets/0d7758c5-f7d8-42cf-90ca-8349278d804b" />
+
+## Quartz Chassis Comparison
+
+<img width="2430" height="461" alt="image" src="https://github.com/user-attachments/assets/fe59e1ff-1af0-4a83-82f4-11b45e4d7f55" />
