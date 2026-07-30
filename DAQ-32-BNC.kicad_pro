@@ -505,7 +505,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "DAQ-32-BNC.step",
       "svg": "",
       "vrml": ""
     },

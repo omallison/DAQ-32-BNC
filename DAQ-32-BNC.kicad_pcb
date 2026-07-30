@@ -13074,7 +13074,7 @@
 			(prefix "")
 			(suffix "")
 			(units 3)
-			(units_format 0)
+			(units_format 1)
 			(precision 4)
 			(suppress_zeroes yes)
 		)
@@ -13087,7 +13087,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "4.822"
+		(gr_text "4.822 in"
 			(at 472.1606 254.12 0)
 			(layer "User.4")
 			(uuid "35d6e54e-ec78-442e-938c-dd9b0c4e77fe")
